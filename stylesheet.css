@@ -1,0 +1,14 @@
+body{
+  font-size: 14px;
+  line-height: 1.428;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+p{
+  bottom-margin: 10px;
+}
+h1 {
+  font-size: 40px;
+}
+h2 {
+  font-size: 32px;
+}
