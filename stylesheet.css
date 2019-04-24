@@ -32,3 +32,9 @@ a{
 code{
   color: #BE63BF;
 }
+#logo {
+  box-shadow: -1px 2px 104px -37px rgba(222,202,222,1);
+  width: 200px;
+  position: relative;
+  margin: auto;
+}
